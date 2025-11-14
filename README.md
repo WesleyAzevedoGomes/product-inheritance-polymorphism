@@ -1,0 +1,1 @@
+Exercício em Java utilizando herança e polimorfismo para gerar etiquetas de preço de produtos comuns, usados e importados. Inclui sobrescrita de métodos, uso de LocalDate, listas e boas práticas de orientação a objetos.
